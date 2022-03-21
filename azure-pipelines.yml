@@ -6,10 +6,10 @@
 trigger:
 - main
 
+# pool:
+#   name: 'Build-2019'
 pool:
-  name: 'Build-2019'
-#pool:
-#  vmImage: 'windows-latest'
+ vmImage: 'ubuntu-latest'
 
 variables:
   solution: '**/*.sln'
