@@ -1,1 +1,2 @@
 checking the repository trigger types
+testing the secret keys
